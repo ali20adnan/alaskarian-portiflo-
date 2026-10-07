@@ -1,0 +1,12 @@
+{
+  "name": "alaskariannet-replica",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Faithful, self-contained copy of the Al-Askari Holy Shrine social links page.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "download-assets": "node scripts/download-assets.mjs"
+  }
+}
